@@ -31,3 +31,12 @@ Ch42_Predefined_Macros
 
 @end
 ```
+
+``` console
+2019-08-17 09:13:41.326254-0500 Predefined_Macros[16895:1750605] File :/Users/carlossantiagocruz/Documents/SWIFT-PROGRAMMING/Ch42_Predefined_Macros/Predefined_Macros/Predefined_Macros/ViewController.m
+2019-08-17 09:13:41.326645-0500 Predefined_Macros[16895:1750605] Date :Aug 17 2019
+2019-08-17 09:13:41.327450-0500 Predefined_Macros[16895:1750605] Time :09:13:35
+2019-08-17 09:13:41.328301-0500 Predefined_Macros[16895:1750605] Line :23
+2019-08-17 09:13:41.335200-0500 Predefined_Macros[16895:1750605] ANSI :1
+
+```
